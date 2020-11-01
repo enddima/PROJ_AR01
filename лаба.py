@@ -7,5 +7,4 @@ for i in range(n):
     if s>k+x:
         days+=1
         s-=k+x
-print(days)        
-    
+print(days*2)
